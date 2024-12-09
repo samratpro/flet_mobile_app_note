@@ -21,7 +21,11 @@ Install Android Studio
 Variable name : ANDROID_HOME
 Variable path : C:\Users\{user}\AppData\Local\Android\Sdk
 ```
-## 04. Compile Apk
+## 04. Turn on Developer Mode
+```
+from windows developer setting turn on
+```
+## 05. Compile Apk
 ```bash
 flet build apk
 ```
