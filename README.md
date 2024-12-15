@@ -5,6 +5,7 @@ pip install flet
 ## 01. Create Project
 ```bash
 flet create project_name
+flet run
 ```
 ## 02. Setup Flutter Support
 ```
